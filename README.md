@@ -18,3 +18,15 @@ commit - it is the record of change
 
 push - upload local repo content to remote repo 
        git push origin main
+---------File related------------
+dire back  use 
+       cd ..       
+
+create new file in cmd use 
+       mkdir <-file name->
+
+dire inside keliye use 
+       cd <-file name> Tab
+
+---------file--------------------
+       
