@@ -15,3 +15,6 @@ add - adds new or changed files in your working directory to the git stageing ar
 
 commit - it is the record of change
        git commit -m "some message"       
+
+push - upload local repo content to remote repo 
+       git push origin main
