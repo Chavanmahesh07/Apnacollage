@@ -29,4 +29,15 @@ dire inside keliye use
        cd <-file name> Tab
 
 ---------file--------------------
-       
+
+  Undoing Changes---
+
+  Case 1: Staged changes
+       git reset <-File name->
+       git reset    
+
+  case 2: commited changes (for one commit)
+        git reset HEAD~1   (-one step back)  
+
+  case 3: commited changes (for many commit)  
+             
