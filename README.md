@@ -40,3 +40,4 @@ dire inside keliye use
         git reset HEAD~1   (-one step back)  
 
   case 3: commited changes (for many commit)  
+  
